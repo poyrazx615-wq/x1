@@ -1,0 +1,3 @@
+# örnek tweet/profil url'leri (manuel işlem için)
+https://x.com/seleniumhq/status/1
+https://x.com/seleniumhq
